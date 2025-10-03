@@ -4,3 +4,5 @@ CDU_AI_Challenge.ipynb
 Kriol to English.py
 model/
 Saved Models
+finetune_rag_llm.ipynb
+test_rag_llm.ipynb
